@@ -93,7 +93,6 @@ def replay():
 
 
 while True:
-    # Set the game up here
     # Reset the board
     theBoard = [' '] * 10
     player1_marker, player2_marker = player_input()
